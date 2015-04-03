@@ -1,0 +1,11 @@
+Client
+HTML, CSS, JAVASCRIPT
+
+Server
+SQL, Apache HTTP Server
+
+Frameworks: Spring, Struts
+
+[EJBs]
+
+www.jobserve.com
